@@ -31,6 +31,6 @@ After training for [X] episodes, the agent achieves:
 * `main.py`: The Neural Network architecture and training loop.
 
 ## 📝 How to Run
-1. Clone the repo: `git clone `
+1. Clone the repo: `git clone https://github.com/khushiarc/RL-Taxi-v3-Explorer.git `
 2. Install dependencies: `pip install gymnasium numpy tensorflow`
 3. Run the trainer: `python main.py`
